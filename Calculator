@@ -1,0 +1,28 @@
+namespace MevCalculator
+{
+    public class Mev
+    {
+
+
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
+
+        public uint Sub(uint a, uint b)
+        {
+            return a - b;
+        }
+
+        public long Multiply(long a, long b)
+        {
+            return a * b;
+        }
+
+        public ulong Div(ulong a, ulong b)
+        {
+            return a / b;
+        }
+
+    }
+}
