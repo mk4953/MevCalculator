@@ -1,6 +1,6 @@
 namespace MevCalculator
 {
-    public class Mev
+    public class Math
     {
 
 
