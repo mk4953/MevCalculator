@@ -1,0 +1,10 @@
+C:\Users\mhk_4\source\repos\Flappy Bird Window Form\bin\Debug\Flappy Bird Window Form.exe.config
+C:\Users\mhk_4\source\repos\Flappy Bird Window Form\bin\Debug\Flappy Bird Window Form.exe
+C:\Users\mhk_4\source\repos\Flappy Bird Window Form\bin\Debug\Flappy Bird Window Form.pdb
+C:\Users\mhk_4\source\repos\Flappy Bird Window Form\obj\Debug\Flappy Bird Window Form.csprojAssemblyReference.cache
+C:\Users\mhk_4\source\repos\Flappy Bird Window Form\obj\Debug\Flappy_Bird_Window_Form.Form1.resources
+C:\Users\mhk_4\source\repos\Flappy Bird Window Form\obj\Debug\Flappy_Bird_Window_Form.Properties.Resources.resources
+C:\Users\mhk_4\source\repos\Flappy Bird Window Form\obj\Debug\Flappy Bird Window Form.csproj.GenerateResource.cache
+C:\Users\mhk_4\source\repos\Flappy Bird Window Form\obj\Debug\Flappy Bird Window Form.csproj.CoreCompileInputs.cache
+C:\Users\mhk_4\source\repos\Flappy Bird Window Form\obj\Debug\Flappy Bird Window Form.exe
+C:\Users\mhk_4\source\repos\Flappy Bird Window Form\obj\Debug\Flappy Bird Window Form.pdb
