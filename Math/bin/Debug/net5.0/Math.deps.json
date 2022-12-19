@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Math/1.0.0": {
+        "dependencies": {
+          "MevCalculator": "1.0.1"
+        },
+        "runtime": {
+          "Math.dll": {}
+        }
+      },
+      "MevCalculator/1.0.1": {
+        "runtime": {
+          "lib/net5.0/MevCalculator.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MevCalculator/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6WFnTum/YDWoI/jeFfJApR+hV9vdTo43M8t+Kbb6PbqDzuzVWMasWKNWjSK0Ssn4tQtqUcIqrcFXQ2Hl3kLRHw==",
+      "path": "mevcalculator/1.0.1",
+      "hashPath": "mevcalculator.1.0.1.nupkg.sha512"
+    }
+  }
+}
